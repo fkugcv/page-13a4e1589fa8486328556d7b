@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7b95a359ba11ab62d3bf5d4c",
+  "owner": "fkugcv",
+  "repo": "page-13a4e1589fa8486328556d7b",
+  "title": "一枝红杏",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "13a4e1589fa8486328556d7b",
+      "a": "一枝红杏",
+      "b": "稳定全球clash加速器",
+      "entity": "一枝红杏",
+      "brand": "一枝红杏",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "88f1404e4510a24d7a7453e255297db4893886c8ef122b1e0402ade6d444280d",
+      "content": {
+        "primary_entity": "一枝红杏",
+        "keyword1": "一枝红杏",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，Windows 可选 Clash Verge，macOS 可选 ClashX，Android 可选 Clash Meta，iOS 可尝试 Stash。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选好套餐并在对应客户端导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "让连接更顺手",
+          "AI_DESCRIPTION": "，面向需要稳定全球线路的 Clash 用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑双端；旗舰版每月 300GB 流量、支持 5 台设备，并包含 IPLC 专线节点；团队版每月 1000GB 流量、支持 20 台设备，适合多人协作。所有套餐可按年付，分别低至 ¥150/年、¥350/年、¥850/年。",
+          "AI_FEATURES_INTRO": "从流量、设备数与节点线路三个角度快速判断套餐。",
+          "AI_FEATURES_TITLE": "套餐维度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按日常用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台，旗舰版 5 台，团队版 20 台，覆盖手机、电脑与平板的多端需求。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供 IPLC 或 VIP 高带宽节点，普通线路与专线按需搭配。",
+          "AI_FEATURE_TITLE_1": "按流量定档",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按线路类型",
+          "AI_GUIDE_INTRO": "先确认用量和设备数，再选择对应客户端导入订阅。",
+          "AI_GUIDE_TITLE": "三步配置",
+          "AI_HERO_INTRO": "一枝红杏提供基础版、旗舰版与团队版三档 Clash 订阅，分别对应每月 100GB、300GB 和 1000GB 流量，设备数从 3 台到 20 台。用户可按月订阅，也可按年付，年付价格分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付或年付，年付价格更低",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线节点",
+          "AI_PLANS_INTRO": "基础版适合轻量用户，旗舰版是多数人的均衡之选，团队版面向高流量多设备场景。",
+          "AI_PLANS_TITLE": "选择订阅方案",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端类型，确认设备系统与版本匹配。",
+          "AI_STEP_TEXT_3": "在对应 Clash 客户端中导入订阅链接，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "一枝红杏 Clash 订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合手机、平板或轻量办公等少量设备使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，团队版支持 20 台设备，适合家庭多设备或小型团队使用。",
+          "AI_FAQ_ANSWER_3": "基础版、旗舰版和团队版的月付价格分别为 ¥15/月、¥35/月、¥85/月，按年付更划算，可选 ¥150/年、¥350/年、¥850/年。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中导入订阅链接，按客户端文档完成配置，然后根据设备类型选择对应节点并连接。",
+          "AI_FAQ_ANSWER_5": "旗舰版搭载 IPLC 专线并对游戏加速做了优化，适合对延迟和稳定性有较高要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些设备使用？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_3": "不同套餐的价格和计费周期是怎样的？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "游戏加速推荐哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lsdtj.cn",
+    "host": "lsdtj.cn"
+  },
+  "file_hashes": {
+    "index.html": "e4b3ae5399f65c9d0faa77b7090cf2895ec5120f7670ef2ddb9f933bdff5c9bc",
+    "sitemap.xml": "26aa847e584fd5008f961c000ca11efe89568a11b9abe0c59e50172d47eb68e9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "94b22533beefca651d14a132bb64141c022638a673e37399732b3c6fd770d4e1",
+    "robots.txt": "19b9f6efd070f8d55512d69e09c3567bef4735487cbf4e688c5241f8b3bd3616",
+    "2a770b86389ba8d7df5fcb23a0dff784.txt": "26f3a84b19afe5c04e9958918168dc4deb65edf16619462103a7ebc683b841d6"
+  },
+  "revision": "ceeab45516ab02ba009e7fd2e084c1149e3b20ef6ef18dfa233006699493ca83"
+}
